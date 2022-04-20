@@ -9,7 +9,8 @@ Você a bordo de uma nave de combate, precisa destruí los antes que os meteoros
 caiam no planeta.
 
 Setas direcionais controlam a nave ⬅⬆➡⬇ <br>
-Tecla espaço aciona os tiros ➖
+Tecla espaço aciona os tiros ➖<br>
+https://mmagalhaesjr.github.io/Jogo-meteoro/
 
  
  
