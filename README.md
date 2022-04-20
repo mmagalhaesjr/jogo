@@ -10,6 +10,6 @@ caiam no planeta.
 
 Setas direcionais controlam a nave ⬅⬆➡⬇ <br>
 Tecla espaço aciona os tiros ➖
-
+https://github.com/mmagalhaesjr/Jogo-meteoro.git
  
  
