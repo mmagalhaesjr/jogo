@@ -1,3 +1,4 @@
+
 var diryJ,dirxJ,jog,velJ,pjx,pjy;
 var velT;
 var tamTelaW,tamTelaH;

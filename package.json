@@ -1,0 +1,14 @@
+{
+  "name": "jogo-meteoro",
+  "version": "1.0.0",
+  "description": "Este é um projeto baseado no exercício do curso CFB-CURSOS.\nTecnologias usadas: HTML5, CSS3, JS\n![jogo avião](https://user-images.githubusercontent.com/93000364/151247450-058635e7-c0cb-45b6-9e06-bd4d7c702efe.png)",
+  "main": "jscript.js",
+  "scripts": {
+    "start": "node jscript.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0"
+  }
+}

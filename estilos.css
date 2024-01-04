@@ -1,19 +1,21 @@
 body{
 	overflow-x: hidden;
 	overflow-y: hidden;
-	background-image: url("img_gif/fundo\ estrela.jpg");
+	background-image: url("img_gif/sala1.jpg");
 	background-size: cover;
     display: flex;
     
     height: 100vh;
 }
 
-.navJog{
-	width:40px;
-	height: 67px;
-	background-image: url("img_gif/nave_jog.png");
+.navJog img{
+	width:80px;
+	height: 100px;
+	/* background-image: url("img_gif/nave_jog.png"); */
 	position: absolute;
-	
+}
+.navJog{
+	position: absolute;
 }
 
 
