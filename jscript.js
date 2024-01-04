@@ -251,7 +251,7 @@ function inicia(){
 
 	//Telas inicial
 	telaMsg=document.getElementById("telaMsg");
-	telaMsg.style.backgroundImage="url('img_gif/intro.png')";
+	telaMsg.style.backgroundImage="url('img_gif/co.png')";
 	telaMsg.style.display="block";
 	telaMsg.style.alignItems="center";
 	telaMsg.style.backgroundSize="cover";
