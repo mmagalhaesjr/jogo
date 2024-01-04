@@ -20,7 +20,7 @@ body{
 
 
 #medidorPlaneta{
-	border:2px solid red;
+	border:2px solid rgba(255, 0, 0, 0.973);
 	width:300px;
 	height:20px;
 	background-color: rgb(150, 65, 65);
